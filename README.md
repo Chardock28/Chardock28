@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello GitHub community ✌️
+My name is Pedro, i'm currently studying Computer Engineering at Pontificia Universidad Católica. I hope to learn a lot about computers and programming during this next 5,5 years.
+
 
 <!--
 **Chardock28/Chardock28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
